@@ -4,4 +4,5 @@ __pycache__/
 venv/
 .env
 .pytest_cache/
-commit.log.DS_Store
+commit.log
+.DS_Store
